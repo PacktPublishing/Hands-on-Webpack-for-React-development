@@ -1,0 +1,8 @@
+
+// Image Holder
+$width: 150px;
+$height: 100px;
+$padding: 8px;
+
+$image-width: $width - (2 * $padding);
+$image-height: $height - (2 * $padding);

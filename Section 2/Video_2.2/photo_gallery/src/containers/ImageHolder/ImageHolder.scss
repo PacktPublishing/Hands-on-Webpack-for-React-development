@@ -1,0 +1,16 @@
+
+@import '../../styles/_img';
+
+.image-holder {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: $padding;
+    width: $width;
+    height: $height;
+    cursor: pointer;
+    box-shadow: 4px 6px 6px #888888;
+}
+
+.image-holder:hover {
+    filter: grayscale(40%);
+}

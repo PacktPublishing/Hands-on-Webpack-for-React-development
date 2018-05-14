@@ -1,0 +1,57 @@
+
+/* global app styles go here */
+
+body {
+    margin: 40px;
+    margin-top: 20px;
+    background-color: #ccc;
+}
+
+.app-title {
+    margin-left: 20px;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 300px 150px 300px;
+}
+
+.stop-watch {
+    text-align : center;
+}
+
+.controls {
+    background-color: #ccc;
+    padding: 5px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.controls button {
+    width: 90%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.stop-watch h3 {
+    font-size: 5em;
+    color: #444;
+}
+
+.player-label {
+    color: #111;
+    font-size: 3em;
+}
+
+.player-info {
+    background-color: #ddd;
+    border: 2px solid #888;
+    padding: 20px;
+    text-align: center;
+}
+
+.player-info-active {
+    border: 4px solid #000;
+}

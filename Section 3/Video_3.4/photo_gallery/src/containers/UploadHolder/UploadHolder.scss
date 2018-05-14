@@ -1,0 +1,29 @@
+
+@import '../../styles/_img';
+
+.upload-holder {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: $padding;
+    width: $width;
+    height: $height;
+    box-shadow: 4px 6px 6px #888888;
+    background-color: #ddd;
+    text-align: center;
+    font-size: 0.8em;
+    line-height: 50px;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.input-file {
+    cursor: pointer;
+    color: #000;
+    font-weight: bold;
+}
+
+.input-file:hover {
+    color: #444;
+}

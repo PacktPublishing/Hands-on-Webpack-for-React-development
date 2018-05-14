@@ -1,0 +1,38 @@
+
+@import '../../styles/themes/_colors';
+
+.image-display-container {
+    margin: 10px;
+    display: grid;
+    grid-template-columns: 1fr 10fr 1fr 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.image-display {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 00%;
+}
+
+.image-control {
+    text-align: center;
+    background: linear-gradient(#bbb, #eee);
+    line-height: 400px;
+    cursor: pointer;
+}
+
+.image-control:hover {
+    background: linear-gradient(#ccc, #ccc);
+    color: $header-background;
+}
+
+.close-image {
+    height: 10px;
+    cursor: pointer;
+}
+
+.close-image:hover {
+    color: #a22;
+}

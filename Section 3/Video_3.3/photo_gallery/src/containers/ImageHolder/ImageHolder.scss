@@ -1,0 +1,28 @@
+
+@import '../../styles/_img';
+
+.image-holder {
+    position: relative;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: $padding;
+    width: $width;
+    height: $height;
+    cursor: pointer;
+    box-shadow: 4px 6px 6px #888888;
+}
+
+.delete-button {
+    position: absolute;
+    top: 65%;
+    left: 75%;
+    opacity: 0;
+}
+
+.image-holder:hover {
+    filter: grayscale(60%);
+}
+
+.image-holder:hover .delete-button {
+    opacity: 1;
+}

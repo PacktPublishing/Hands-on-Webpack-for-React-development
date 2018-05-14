@@ -1,0 +1,15 @@
+
+/* global app styles go here */
+
+@import 'themes/_colors';
+@import '_img';
+
+body {
+    margin: 40px;
+    margin-top: 0px;
+    background-color: $app-background;
+}
+
+.editor {
+    margin: 40px;
+}

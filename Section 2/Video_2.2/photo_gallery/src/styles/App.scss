@@ -1,0 +1,19 @@
+
+/* global app styles go here */
+
+@import 'themes/_colors';
+
+body {
+    margin: 40px;
+    margin-top: 0px;
+    background-color: $app-background;
+}
+
+.wrapper {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+

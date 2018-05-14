@@ -1,0 +1,42 @@
+
+/* global app styles go here */
+
+@import 'themes/_colors';
+@import '_img';
+
+body {
+    margin: 40px;
+    margin-top: 0px;
+    background-color: $app-background;
+}
+
+.app-view {
+    position: relative;
+}
+
+.wrapper {
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax($width, 1fr));
+    grid-column-gap: 10px;
+    grid-row-gap: 20px;
+}
+
+.select-image {
+    background-color: #ddd;
+    padding: 5px;
+    width: 70px;
+    cursor: pointer;
+    font-size: 1.2em;
+}
+
+.select-header {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.select-header span {
+    margin-left: 10px;
+    color: blue;
+    cursor: pointer;
+}

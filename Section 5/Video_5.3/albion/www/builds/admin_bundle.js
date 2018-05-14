@@ -1,0 +1,2 @@
+webpackJsonp([1],{135:function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}var u=l(1),a=n(u),d=l(27),r=n(d),c=l(11),f=n(c);r.default.render(a.default.createElement("div",null,a.default.createElement(f.default,null),a.default.createElement("h3",null,"Admin Page")),document.getElementById("root"))}},[135]);
+//# sourceMappingURL=admin_bundle.js.map

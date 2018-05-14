@@ -1,0 +1,15 @@
+
+@import '../../styles/themes/_colors';
+
+$border-radius: 10px;
+
+.header {
+    background-color: $header-background;
+    color: $header-color;
+    padding: 20px;
+    font-weight: bold;
+    border-bottom-left-radius: $border-radius;
+    border-bottom-right-radius: $border-radius;
+}
+
+    
