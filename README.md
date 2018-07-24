@@ -24,36 +24,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course targets developers who are familiar with JS and React. The target audience will benefit from Webpack and learn to implement React interfaces in JS.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
-For successful completion of this course, students will require the computer systems with at least the following:
-
-·         OS: Windows, Ubuntu (or any other Linux distribution), Mac OS
-
-·         Processor: Intel i3 or similar
-
-·         Memory: 8 GB
-
-·         Storage: 10 GB
-
-
-
-Recommended Hardware Requirements
-For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-
-·         OS: Windows, Ubuntu (or any other Linux distribution), Mac OS
-
-·         Processor: Intel i5 or similar
-
-·         Memory: 16 GB
-
-·         Storage: 10 GB
-
-Software Requirements
-·         OS: Windows, Ubuntu (or any other Linux distribution), Mac OS
-
-·         Browser: Chrome or Firefox (Chrome preferred)
-
-·         Code Editor: Visual Studio Code (https://code.visualstudio.com/)
+<b>Minimum Hardware Requirements</b><br>
+For successful completion of this course, students will require the computer systems with at least the following:<ul><li>OS: Windows, Ubuntu (or any other Linux distribution), Mac OS</li><li>Processor: Intel i3 or similar</li><li>Memory: 8 GB</li><li>Storage: 10 GB</li>/ul><br><b>Recommended Hardware Requirements</b><br>
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<ul><li>OS: Windows, Ubuntu (or any other Linux distribution), Mac OS</li><li>Processor: Intel i5 or similar</li><li>Memory: 16 GB</li><li>Storage: 10 GB</li></ul><br><b>Software Requirements</b><ul><li>OS: Windows, Ubuntu (or any other Linux distribution), Mac OS</li><li>Browser: Chrome or Firefox (Chrome preferred)</li><li>Code Editor: Visual Studio Code (https://code.visualstudio.com/)</li></ul>
 
 ## Related Products
 * [JavaScript for Beginners - A Complete Guide [Video]](https://www.packtpub.com/application-development/javascript-beginners-complete-guide-video?utm_source=github&utm_medium=repository&utm_campaign=9781789133752)
