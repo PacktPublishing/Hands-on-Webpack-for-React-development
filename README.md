@@ -25,7 +25,7 @@ This course targets developers who are familiar with JS and React. The target au
 ### Technical Requirements
 This course has the following software requirements:<br/>
 <b>Minimum Hardware Requirements</b><br>
-For successful completion of this course, students will require the computer systems with at least the following:<ul><li>OS: Windows, Ubuntu (or any other Linux distribution), Mac OS</li><li>Processor: Intel i3 or similar</li><li>Memory: 8 GB</li><li>Storage: 10 GB</li>/ul><br><b>Recommended Hardware Requirements</b><br>
+For successful completion of this course, students will require the computer systems with at least the following:<ul><li>OS: Windows, Ubuntu (or any other Linux distribution), Mac OS</li><li>Processor: Intel i3 or similar</li><li>Memory: 8 GB</li><li>Storage: 10 GB</li><ul><br><b>Recommended Hardware Requirements</b><br>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:<ul><li>OS: Windows, Ubuntu (or any other Linux distribution), Mac OS</li><li>Processor: Intel i5 or similar</li><li>Memory: 16 GB</li><li>Storage: 10 GB</li></ul><br><b>Software Requirements</b><ul><li>OS: Windows, Ubuntu (or any other Linux distribution), Mac OS</li><li>Browser: Chrome or Firefox (Chrome preferred)</li><li>Code Editor: Visual Studio Code (https://code.visualstudio.com/)</li></ul>
 
 ## Related Products
